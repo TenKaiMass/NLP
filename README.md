@@ -21,3 +21,6 @@ Il reste une etape final qui consite à préparer le dataset, avant de le donner
 Cette étape prépare le dataset avec une decoupe en lot, d'autres etapes intermédiaire avant de repartir les lots dans les parties train,eval et test.
 
 
+## TODO FINIR README
+
+
